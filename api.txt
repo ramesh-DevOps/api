@@ -3,4 +3,4 @@ JenkinsIP:8080/job/windows_terraform/buildWithParameters?token=marshal&AWS_EC2_T
 
 
 
-http://JenkinsIP:8080/job/windows_terraform/lastBuild/consoleText
+http://JenkinsIP:8080/job/windows_terraform/lastBuild/consoleText - for console output.
