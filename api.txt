@@ -1,6 +1,6 @@
-IP:8080/job/windows_terraform/buildWithParameters?token=marshal&AWS_EC2_TYPE=t2.micro&Jenkins-Crumb=lanjk73nljnjk8kjwaenkjnk8qnekj6kjbaefjkjanjn
+JenkinsIP:8080/job/windows_terraform/buildWithParameters?token=marshal&AWS_EC2_TYPE=t2.micro&Jenkins-Crumb=lanjk73nljnjk8kjwaenkjnk8qnekj6kjbaefjkjanjn
 
 
 
 
-http://IP:8080/job/windows_terraform/lastBuild/consoleText
+http://JenkinsIP:8080/job/windows_terraform/lastBuild/consoleText
